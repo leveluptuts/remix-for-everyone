@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/scotttolinski/Sites/lut-recording-sites/remix/syntax/app/routes/demos/about/whoa.tsx?browser", "../../../../../app/routes/demos/about/whoa.tsx"],
+  "sourcesContent": ["export { default } from \"/Users/scotttolinski/Sites/lut-recording-sites/remix/syntax/app/routes/demos/about/whoa.tsx\";", "import { Link } from \"remix\";\n\nexport default function AboutIndex() {\n  return (\n    <div>\n      <p>\n        Whoa, this is a nested route! We render the <code>/about</code> layout\n        route component, and its <code>Outlet</code> renders our route\n        component. \uD83E\uDD2F\n      </p>\n      <p>\n        <strong>\n          <Link to=\"..\">\n            Go back to the <code>/about</code> index.\n          </Link>\n        </strong>\n      </p>\n    </div>\n  );\n}\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAEe,sBAAsB;AACnC,SACE,oCAAC,OAAD,MACE,oCAAC,KAAD,MAAG,gDAC2C,oCAAC,QAAD,MAAM,WAAa,qCACtC,oCAAC,QAAD,MAAM,WAAa,4CAG9C,oCAAC,KAAD,MACE,oCAAC,UAAD,MACE,oCAAC,MAAD;AAAA,IAAM,IAAG;AAAA,KAAK,mBACG,oCAAC,QAAD,MAAM,WAAa;AAAA;",
+  "names": []
+}

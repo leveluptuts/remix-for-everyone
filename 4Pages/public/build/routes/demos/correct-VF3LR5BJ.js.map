@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/scotttolinski/Sites/lut-recording-sites/remix/syntax/app/routes/demos/correct.tsx?browser", "../../../../app/routes/demos/correct.tsx"],
+  "sourcesContent": ["export { default } from \"/Users/scotttolinski/Sites/lut-recording-sites/remix/syntax/app/routes/demos/correct.tsx\";", "export default function NiceWork() {\n  return <h1>You got it right!</h1>;\n}\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAe,oBAAoB;AACjC,SAAO,oCAAC,MAAD,MAAI;AAAA;",
+  "names": []
+}

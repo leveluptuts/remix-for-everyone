@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/scotttolinski/Sites/lut-recording-sites/remix/syntax/app/routes/syntax.tsx?browser", "../../../app/routes/syntax.tsx"],
+  "sourcesContent": ["export { default } from \"/Users/scotttolinski/Sites/lut-recording-sites/remix/syntax/app/routes/syntax.tsx\";", "export default function () {\n  return <h1>The Syntax Podcast</h1>;\n}\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAe,0BAAY;AACzB,SAAO,oCAAC,MAAD,MAAI;AAAA;",
+  "names": []
+}

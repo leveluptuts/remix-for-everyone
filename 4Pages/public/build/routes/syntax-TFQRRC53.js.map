@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/scotttolinski/Sites/lut-recording-sites/remix/syntax/app/routes/syntax.tsx?browser"],
+  "sourcesContent": ["export * from \"/Users/scotttolinski/Sites/lut-recording-sites/remix/syntax/app/routes/syntax.tsx\";"],
+  "mappings": ";;;;;AAAA;",
+  "names": []
+}
